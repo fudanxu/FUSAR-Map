@@ -1,4 +1,4 @@
-# TransUNet
+# FUSAR-Map
 This repo holds code for [Object-level Semantic Segmentation on The High-Resolution Gaofen-3 FUSAR-Map Dataset](https:)
 
 ## Usage
