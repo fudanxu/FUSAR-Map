@@ -33,10 +33,12 @@ CUDA_VISIBLE_DEVICES=0 python train.py
 ## Citations
 
 ```bibtex
-@article{,
-  title={Object-level Semantic Segmentation on The High-Resolution Gaofen-3 FUSAR-Map Dataset},
-  author={},
-  journal={},
-  year={2021}
-}
+@ARTICLE{9369836,  author={X. {Shi} and S. {Fu} and J. {Chen} and F. {Wang} and F. {Xu}},  
+    journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
+    title={Object-level Semantic Segmentation on the High-Resolution Gaofen-3 FUSAR-Map Dataset},   
+    year={2021},  
+    volume={},  
+    number={},  
+    pages={1-1},  
+    doi={10.1109/JSTARS.2021.3063797}}
 ```
