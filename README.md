@@ -13,6 +13,10 @@ extraction code：：elif
 
 Please go to ["FUSAR-Map"](https://shixianzheng.github.io/FUSAR-Map/) for details.
 
+Google Drive download link of FUSAR-MAP:
+
+["FUSAR-Map google drive"](https://drive.google.com/file/d/1dfr2YRFppjoPZi3KKlnd-m6ko-o20sNM/view?usp=sharing)
+
 ### 3. Environment
 
 Please prepare an environment with python==3.6, tensorflow-gpu==1.15.
